@@ -164,23 +164,6 @@ http://3.troya.info:34000/ch2692/mono.m3u8?token=rl_ruslan.Qvpci3xPd-Teqz7c64tGP
 #EXTINF:0 tvg-name="Oasis Друзья Друзя" tvg-logo="http://troya.info/images/chIcons/2661.png" tvg-rec="3", Oasis Друзья Друзя
 #EXTGRP: Nature/Природа
 http://3.troya.info:34000/ch2661/mono.m3u8?token=rl_ruslan.Qvpci3xPd-Teqz7c64tGPUXFGLK4HKP9BZ-YMGnLXXceLGBAwtYxL8EW8VG2UzZy
-#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/HHbqT0W/2154.png",http://tinyurl.com/TV9DEOOLEG
-http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
-#EXTINF:0 group-title="TvZaTak" tvg-id=2210 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Обнова в телеграм
-http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
-#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",В телеграм
-http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
-#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Обновление в ТГ
-http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
-#EXTINF:-1 group-title="TvZaTak" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png",http://tinyurl.com/TV9DEOOLEG
-http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
-#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="http://epg.it999.ru/img/2079.png",Обнова в телеграм
-http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
-#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Работает @TvZaTak
-http://tinyurl.com/deoTVoleg/id547/video.m3u8?secret=z9uobpke
-#EXTINF:0 group-title="TvZaTak" tvg-id=2079 tvg-logo="https://i.ibb.co/MCPX1NK/1.png",Форумный канал
-http://tinyurl.com/deoTVoleg/id563/video.m3u8?secret=z9uobpke
-#EXT-X-ENDLIST
 
 #EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://stream4k.ru:8080/epg.xml,http://tvoetv.space/tvoetv.xml,http://tvoetv.space/tvoetv-humor.xml,https://klimedia.space/epg.xml.gz"
 #EXTINF:0 xui-id="9261" tvg-id="paramount-comedy" tvg-name="Paramount Comedy HD" tvg-logo="http://icon.dnsfor.me/icon/ParamountComedyHD.png",Paramount Comedy HD
