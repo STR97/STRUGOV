@@ -24,3 +24,17 @@ wireguard://wMvv52tExUcuwtqJio7COurrv0vhVltVixuyQK5UeF8%3D@188.114.96.157:1018?p
 wireguard://AErNmq5BR997SQf17rdL%2FxfJZnOgLFfJzfcrSwGyi24%3D@188.114.96.175:928?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=90%2C65%2C85&address=172.16.0.2%2F32&mtu=1280#STR%20BYPASS
 wireguard://cG%2FuWS71tkh0sbZjDlRuXbv6eGdyJR9W1PxjxcsCFWA%3D@188.114.96.115:945?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=174%2C255%2C87&address=172.16.0.2%2F32&mtu=1280#STR%20BYPASS
 wireguard://oH23Eyw068upfRRvmsIwdZA0f19IFrla1CBZyMF8ZGU%3D@188.114.96.137:903?publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=168%2C140%2C71&address=172.16.0.2%2F32&mtu=1280#STR%20BYPASS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQnJ0czVBdTRHTTlhcjdiVE55WkV1@85.208.139.69:63861#STR%20BYPASS%20%F0%9F%87%A9%F0%9F%87%AA
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#STR%20BYPASS%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#STR%20BYPASS%20%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA%3D%3D@92.119.199.33:443#STR%20BYPASS%20%F0%9F%87%AC%F0%9F%87%A7
+vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=gbr01.abvpn.ru#STR%20BYPASS%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#STR%20BYPASS%20%F0%9F%87%AE%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#STR%20BYPASS%20%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%B7
+vless://588f094b-431b-422c-b80b-007945037072@2.56.178.47:443?path=%2Fwebsocket&security=tls&encryption=none&host=ru05.abvpn.ru&type=ws&sni=ru05.abvpn.ru#STR%20BYPASS%20%F0%9F%87%B7%F0%9F%87%BA
+vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#STR%20BYPASS%20%F0%9F%87%B3%F0%9F%87%B1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.237:8880?mode=gun&security=none&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%B1%F0%9F%87%B9
+vless://dd1e77b6-5131-5854-8232-d3f7bcbe0e95@85.209.194.2:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.ca.vless.sitespeedtest.net&type=ws#STR%20BYPASS%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#STR%20BYPASS%20%F0%9F%87%B8%F0%9F%87%B0
+vless://1a0502c7-6508-4c51-8a14-ea495f3ce04e@185.245.106.132:433?security=reality&encryption=none&pbk=BPghLezcgVNSswa6qHLC3iTU76M5QH-FB0z-O5FETAo&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=web.telegram.org&sid=e548c1#VIP%20STR%20BYPASS%20%F0%9F%9B%B8%E2%9C%8C%EF%B8%8F
