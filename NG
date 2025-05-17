@@ -1,6 +1,6 @@
 [
 {
-  "remarks": "🌴 Rayan - E1 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E1 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -395,7 +395,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M1 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M1 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -790,7 +790,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - E2 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E2 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -1185,7 +1185,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M2 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M2 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -1580,7 +1580,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - E3 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E3 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -1975,7 +1975,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M3 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M3 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -2370,7 +2370,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - E4 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E4 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -2765,7 +2765,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M4 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M4 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -3160,7 +3160,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - E5 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E5 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -3555,7 +3555,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M5 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M5 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -3950,7 +3950,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - E6 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - E6 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -4345,7 +4345,7 @@
   "stats": {}
 },
 {
-  "remarks": "🌴 Rayan - M6 - CF - Vless 🔥",
+  "remarks": "🌴 STR.BYPASS - M6 - CF - Vless 🔥",
   "dns": {
     "hosts": {
       "geosite:category-ads-all": "127.0.0.1",
@@ -4740,7 +4740,7 @@
   "stats": {}
 },
     {
-        "remarks": "🌵 Rayan - T1 - CF - Trojan 🔥",
+        "remarks": "🌵 STR.BYPASS - T1 - CF - Trojan 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -4813,7 +4813,7 @@
                         {
                             "address": "zula.ir",
                             "port": 443,
-                            "password": "t.me/Rayan_Config",
+                            "password": "t.me/STR.BYPASS_Config",
                             "level": 8
                         }
                     ]
@@ -4949,7 +4949,7 @@
         "stats": {}
     },
     {
-        "remarks": "🌵 Rayan - T2 - CF - Trojan 🔥",
+        "remarks": "🌵 STR.BYPASS - T2 - CF - Trojan 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -5005,7 +5005,7 @@
                         {
                             "address": "fonts.net",
                             "port": 443,
-                            "password": "t.me/Rayan_Config",
+                            "password": "t.me/STR.BYPASS_Config",
                             "level": 8
                         }
                     ]
@@ -5117,7 +5117,7 @@
         "stats": {}
     },
     {
-        "remarks": "🌵 Rayan - T3 - CF - Trojan 🔥",
+        "remarks": "🌵 STR.BYPASS - T3 - CF - Trojan 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -5190,7 +5190,7 @@
                         {
                             "address": "www.speedtest.net",
                             "port": 443,
-                            "password": "t.me/Rayan_Config",
+                            "password": "t.me/STR.BYPASS_Config",
                             "level": 8
                         }
                     ]
@@ -5326,7 +5326,7 @@
         "stats": {}
     },
     {
-        "remarks": "🌵 Rayan - T4 - CF - Trojan 🔥",
+        "remarks": "🌵 STR.BYPASS - T4 - CF - Trojan 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -5382,7 +5382,7 @@
                         {
                             "address": "cdnjs.com",
                             "port": 443,
-                            "password": "t.me/Rayan_Config",
+                            "password": "t.me/STR.BYPASS_Config",
                             "level": 8
                         }
                     ]
@@ -5494,7 +5494,7 @@
         "stats": {}
     },
     {
-        "remarks": "☘️ Rayan - Fragment - T-H 🔥",
+        "remarks": "☘️ STR.BYPASS - Fragment - T-H 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -5720,7 +5720,7 @@
         "stats": {}
     },
     {
-        "remarks": "☘️ Rayan - Fragment - 1-1 🔥",
+        "remarks": "☘️ STR.BYPASS - Fragment - 1-1 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -5946,7 +5946,7 @@
         "stats": {}
     },
     {
-        "remarks": "☘️ Rayan - Fragment - 1-2 🔥",
+        "remarks": "☘️ STR.BYPASS - Fragment - 1-2 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -6172,7 +6172,7 @@
         "stats": {}
     },
     {
-        "remarks": "☘️ Rayan - Fragment - 1-3 🔥",
+        "remarks": "☘️ STR.BYPASS - Fragment - 1-3 🔥",
         "log": {
             "loglevel": "warning"
         },
@@ -6398,7 +6398,7 @@
         "stats": {}
     },
     {
-        "remarks": "☘️ Rayan - Fragment - 1-5 🔥",
+        "remarks": "☘️ STR.BYPASS - Fragment - 1-5 🔥",
         "log": {
             "loglevel": "warning"
         },
