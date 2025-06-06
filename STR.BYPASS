@@ -60,3 +60,14 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ck4vT3ZGQ25lYXRKNEVBK05BZlVhZWlGd1VTMk1pK2N
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ck4vT3ZGQ25lYXRKNEVBK05BZlVhZWlGd1VTMk1pK2NqOGorRi9icXVHMD06b2h0RytSOUsrL2tQNUs2ckQ1MGpGcThqbURQdVJNY1JWbGc5dmZQNmp3az0%3D@85.209.2.112:10752#STR%20BYPASS%20%F0%9F%9B%B8
 vless://73726b38-dde4-4493-9d66-ec78fcbbdf71@85.209.2.112.sslip.io:14083?encryption=none&security=none&type=tcp&headerType=none#STR%20BYPASS%20%F0%9F%9B%B8
 vless://1a0502c7-6508-4c51-8a14-ea495f3ce04e@185.245.106.132:433?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.telegram.org&fp=random&pbk=BPghLezcgVNSswa6qHLC3iTU76M5QH-FB0z-O5FETAo&sid=e548c1&spx=%2F&type=tcp&headerType=none#STR%20BYPASS%20%F0%9F%9B%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.132:8080#STR%20BYPASS%20%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#STR%20BYPASS%20%F0%9F%87%AC%F0%9F%87%A7
+vless://71eaf343-1b47-44d0-a725-5dd4c00ee6ba@185.79.158.154:8087?security=none&encryption=none&host=%2FChannel%40ShadowProxy66&headerType=http&type=tcp#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%AE
+vless://8c9a892c-e9d5-4fff-bfdb-8ef9c50272b1@162.251.82.187:80?path=58834%2Fmail-template&security=none&encryption=none&host=my-mail-management-pr0-git-land-manager.clients-github.com&type=ws#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%AE
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@chop-wrist-bud.stark-industries.solutions:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#STR%20BYPASS%20%F0%9F%87%A7%F0%9F%87%AA
+vmess://eyJhZGQiOiI2Mi4xNDYuMjMyLjE1NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyNGVkYTBlYS1hY2YwLTQ1MzgtYTAwMS1mNzQ2YTQ4MDIzN2EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjMzMjgxIiwicHMiOiJTVFIgQllQQVNTIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://YWVzLTI1Ni1nY206NzM1ZmQ0ZjQtYmM1NS00MDBhLTlmMWMtMmI5MTA4OWM5MjAw@68.183.213.232:8443#STR%20BYPASS%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#STR%20BYPASS%20%F0%9F%87%A9%F0%9F%87%AA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#STR%20BYPASS%20%F0%9F%87%A7%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#STR%20BYPASS%20%F0%9F%87%A8%F0%9F%87%A6
