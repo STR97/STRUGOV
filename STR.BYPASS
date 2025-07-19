@@ -16,6 +16,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%B7
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=firefox&type=xhttp&sni=ali.tas-bazi.com#STR%20BYPASS%20%F0%9F%A4%96%20%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%AC%F0%9F%87%A7
+vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#STR%20BYPASS%20%F0%9F%87%A8%F0%9F%87%A6
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=%2F&security=none&encryption=none&type=ws#STR%20BYPASS%20%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%AE
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#STR%20BYPASS%20%F0%9F%87%B8%F0%9F%87%AA
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#STR%20BYPASS%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#STR%20BYPASS%F0%9F%9A%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#STR%20BYPASS%20%F0%9F%A4%96%20%F0%9F%87%A9%F0%9F%87%AA
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D%23TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#STR%20BYPASS%20%F0%9F%A4%96
